@@ -1,2 +1,2 @@
 # weatherApp
-An weather app using python, tkinter and open weather API
+A weather app using python, tkinter and open weather API
